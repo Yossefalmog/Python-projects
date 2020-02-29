@@ -1,5 +1,8 @@
+
+
 def display_board(board):
-    ("\n" *100000000000)
+    print('\n*10000000000')
+
     print('   |   |')
     print(' ' + board[7] + ' | ' + board[8] + ' | ' + board[9])
     print('   |   |')
